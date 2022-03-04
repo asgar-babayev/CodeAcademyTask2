@@ -24,9 +24,7 @@ namespace PracticeTasks
             //    Console.WriteLine("Arrayın ən kiçik elementi {0}", minEl);
             //}
             //else
-            //{
             //    Console.WriteLine("Arrayın ölçüsü 0 ya da mənfi ola bilməz");
-            //}
             //Console.ReadKey();
             #endregion
 

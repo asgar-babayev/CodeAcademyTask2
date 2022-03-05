@@ -45,6 +45,41 @@ namespace PracticeTasks
             ////Console.WriteLine($"Mətndəki a simvolunun sayı = {count}");
             //Console.ReadKey();
             #endregion
+
+            #region Additional task
+            //Console.Write("Array-a ölçü verin: ");
+            //int arrSize = Convert.ToInt32(Console.ReadLine());
+            ////int temp = 0;
+            //if (arrSize > 0)
+            //{
+            //    int[] arr = new int[arrSize];
+            //    for (int i = 0; i < arrSize; i++)
+            //    {
+            //        Console.Write(i + ". " + "elementi daxil edin: ");
+            //        arr[i] = Convert.ToInt32(Console.ReadLine());
+            //    }
+
+            //    for (int j = 0; j < arr.Length; j++)
+            //    {
+            //        for (int k = j; k < arr.Length; k++)
+            //        {
+            //            if (arr[j] > arr[k])
+            //            {
+            //                //    temp = arr[k];
+            //                //    arr[k] = arr[j];
+            //                //    arr[j] = temp;
+            //                arr[j] = arr[k] + arr[j];
+            //                arr[k] = arr[j] - arr[k];
+            //                arr[j] = arr[j] - arr[k];
+            //            }
+
+            //        }
+            //    }
+            //    foreach (var el in arr)
+            //        Console.WriteLine(el);
+            //    
+            //}
+            #endregion
         }
     }
 }
